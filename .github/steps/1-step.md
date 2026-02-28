@@ -4,11 +4,11 @@
 
 En este ejercicio, utilizarás diferentes características de GitHub Copilot para trabajar en un sitio web que permite que los estudiantes de la Escuela Secundaria Mergington se registren para actividades extracurriculares. 🎻 ⚽️ ♟️
 
-<img width="600" alt="screenshot of Mergington High School WebApp" src="../images/mergington-high-school-webapp.png" />
+<img width="600" alt="screenshot of Mergington High School WebApp" src="https://github.com/FedeBreme/unahur-getting-started-with-github-copilot/blob/main/.github/images/mergington-high-school-webapp.png?raw=true" />
 
 ### 📖 Teoría: Conocer GitHub Copilot
 
-<img width="150" align="right" alt="copilot logo" src="../images/copilot-logo.png" />
+<img width="150" align="right" alt="copilot logo" src="https://github.com/FedeBreme/unahur-getting-started-with-github-copilot/blob/main/.github/images/copilot-logo.png?raw=true" />
 
 GitHub Copilot es un asistente de codificación con IA que te ayuda a escribir código más rápido y con menos esfuerzo, permitiéndote enfocarte más energía en la resolución de problemas y la colaboración.
 
@@ -47,19 +47,19 @@ Empecemos nuestro entorno de desarrollo, usa copilot para aprender un poco sobre
 
 1. En la barra lateral izquierda, haz clic en la pestaña de extensiones y verifica que las extensiones `GitHub Copilot` y `Python` estén instaladas y habilitadas.
 
-   <img width="350" alt="copilot extension for VS Code" src="../images/copilot-extension-vscode.png" />
+   <img width="350" alt="copilot extension for VS Code" src="https://github.com/FedeBreme/unahur-getting-started-with-github-copilot/blob/main/.github/images/copilot-extension-vscode.png?raw=true" />
 
-   <img width="350" alt="python extension for VS Code" src="../images/python-extension-vscode.png" />
+   <img width="350" alt="python extension for VS Code" src="https://github.com/FedeBreme/unahur-getting-started-with-github-copilot/blob/main/.github/images/python-extension-vscode.png?raw=true" />
 
 1. En la parte superior de VS Code, localiza y haz clic en el **icono Toggle Chat** para abrir un panel lateral de Copilot Chat.
 
-   <img width="150" alt="image" src="../images/toggle-chat-icon.png" />
+   <img width="150" alt="image" src="https://github.com/FedeBreme/unahur-getting-started-with-github-copilot/blob/main/.github/images/toggle-chat-icon.png?raw=true" />
 
    > 🪧 **Nota:** Si es la primera vez que usas GitHub Copilot, tendrás que aceptar los términos de uso para continuar.
 
 1. Asegúrate de estar en **Ask Mode** para nuestra primera interacción
 
-   <img width="350" alt="screenshot showing Ask Mode selection in Copilot Chat" src="../images/ask-mode-selection.png" />
+   <img width="350" alt="screenshot showing Ask Mode selection in Copilot Chat" src="https://github.com/FedeBreme/unahur-getting-started-with-github-copilot/blob/main/.github/images/ask-mode-selection.png?raw=true" />
 
 1. Ingresa el siguiente prompt para pedirle a Copilot que te introduzca al proyecto.
 
@@ -81,13 +81,13 @@ Empecemos nuestro entorno de desarrollo, usa copilot para aprender un poco sobre
 
 1. Ahora que sabemos un poco más sobre el proyecto, ¡intentemos ejecutarlo! En la barra lateral izquierda, selecciona la pestaña `Run and Debug` y luego presiona el icono **Start Debugging**.
 
-   <img width="300" alt="image" src="../images/run-and-debug-tab.png" />
+   <img width="300" alt="image" src="https://github.com/FedeBreme/unahur-getting-started-with-github-copilot/blob/main/.github/images/run-and-debug-tab.png?raw=true" />
 
 1. Queremos ver nuestra página web ejecutándose en un navegador, así que busquemos la URL y el puerto. Si no es visible, expande el panel inferior y selecciona la pestaña **Ports**.
 
 1. En la lista, encuentra el puerto `8000` y el enlace relacionado. Pasa el cursor sobre el enlace y selecciona el icono **Open in browser**.
 
-   ![image](../images/open-in-browser-icon.png)
+   ![image](https://github.com/FedeBreme/unahur-getting-started-with-github-copilot/blob/main/.github/images/open-in-browser-icon.png?raw=true)
 
 ### :keyboard: Actividad: Usa Copilot para recordar un comando de terminal 🙋
 
